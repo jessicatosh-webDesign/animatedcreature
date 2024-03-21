@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+body {
+  background-color: lightpink;
+}
+h1 {
+  color: tomato;
+  background-color:;
+  text-align: center;
+  font-family: geneva;
+  font-size: 100px;
+}
+#Information {
+  color: deeppink; 
+  background-color: ;
+  text-align: center;
+  font-family: geneva;
+  font-size: 20px;
+}
